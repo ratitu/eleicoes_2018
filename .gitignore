@@ -1,0 +1,14 @@
+# Shapefile components
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
