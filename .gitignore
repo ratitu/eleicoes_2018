@@ -1,9 +1,9 @@
 # Shapefile components
-*.shp
-*.shx
-*.dbf
-*.prj
-*.cpg
+#*.shp
+#*.shx
+#*.dbf
+#*.prj
+#*.cpg
 
 # Python
 __pycache__/
